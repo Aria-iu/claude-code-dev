@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Reverse-engineered Anthropic Claude Code CLI — interactive AI coding assistant in the terminal",
   "type": "module",
-  "author": "claude-code-best <claude-code-best@proton.me>",
+  "author": "None",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Aria-iu/claude-code-dev.git"
