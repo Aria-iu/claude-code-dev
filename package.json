@@ -6,11 +6,11 @@
   "author": "claude-code-best <claude-code-best@proton.me>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/claude-code-best/claude-code.git"
+    "url": "git+https://github.com/Aria-iu/claude-code-dev.git"
   },
-  "homepage": "https://github.com/claude-code-best/claude-code#readme",
+  "homepage": "https://github.com/Aria-iu",
   "bugs": {
-    "url": "https://github.com/claude-code-best/claude-code/issues"
+    "url": "https://github.com/Aria-iu/claude-code-dev/issues"
   },
   "keywords": [
     "claude",
