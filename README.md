@@ -6,6 +6,10 @@
 - [ ] V3 会实现多层级解耦, 很多比如 UI 包, Agent 包都可以独立优化;
 - [ ] V4 会完成大量的测试文件, 以提高稳定性
 
+code map：
+https://mp.weixin.qq.com/s/GjZ-tFBVwfJwK11F1lP5TQ
+
+
 ## 快速开始
 ### 环境要求
 
